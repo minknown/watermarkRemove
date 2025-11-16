@@ -59,7 +59,7 @@ AI的破局：基于生成式修复（Generative Inpainting）的革命
 ![启动窗口](dirshow.png)  
 输入pip install -r requirements.txt
 等待片刻完成依赖包安装。    
-![依赖包教程](rement-setup.png)     
+![依赖包教程](remen-setup.png)     
 
 ### 3、Python或Java只需要调用或运行    
 在cmd窗口再次输入python main.py开始运行，输入视频文件名即可开始去水印。      
