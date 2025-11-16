@@ -65,6 +65,6 @@ AI的破局：基于生成式修复（Generative Inpainting）的革命
 ### 3、Python或Java只需要调用或运行    
 在cmd窗口再次输入python main.py开始运行，输入视频文件名即可开始去水印。      
 支持带文件名参数，python main.py xxx即可。其中xxx替换为要处理水印的视频文件名。如D:\\video.mp4   
-（PS:处理结果稍慢，但是效果很好，请耐心等待！）
+（PS:处理结果稍慢，但是效果很好，请耐心等待！）     
 【使用如有疑问请联系发邮件联系邮箱:usdtadmin@protonmial.com】
 
