@@ -10,7 +10,7 @@
 1. 集成和OCR文本识别技术：PaddleOCR
 2. 集成和使用的AI模型：Transformer、Florence-2
 3. 视频处理框架：ffmpeg6、python-opencv
-
+4. 兼容各大编程语言，JAVA、python、c++等都可以调用。只要能运行cmd命令即可。    
    
 ## 研究思路：     
 在AI修复技术成熟之前，去除视频水印通常有以下几种思路：     
@@ -47,6 +47,7 @@ AI的破局：基于生成式修复（Generative Inpainting）的革命
 
 ## 如何使用：
 ### 1、下载Python3.9    
+原则上，电脑或服务器需要安装python。支持python3.7以上的版本，但我们还是推荐3.9更好。   
 点击：[https://mirrors.huaweicloud.com/python/3.9.7/](https://mirrors.huaweicloud.com/python/3.9.7/) 下载python3.9。    
 一般下载 python-3.9.7-amd64.exe  即可，安装界面勾选"Add python to PATH"，之后一直点下一步即可。   
 ![安装教程](python-setup.png)    
@@ -65,5 +66,5 @@ AI的破局：基于生成式修复（Generative Inpainting）的革命
 在cmd窗口再次输入python main.py开始运行，输入视频文件名即可开始去水印。      
 支持带文件名参数，python main.py xxx即可。其中xxx替换为要处理水印的视频文件名。如D:\\video.mp4   
 （PS:处理结果稍慢，但是效果很好，请耐心等待！）
-
+【使用如有疑问请联系发邮件联系邮箱:usdtadmin@protonmial.com】
 
