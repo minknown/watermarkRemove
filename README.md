@@ -52,7 +52,7 @@ AI的破局：基于生成式修复（Generative Inpainting）的革命
 一般下载 python-3.9.7-amd64.exe  即可，安装界面勾选"Add python to PATH"，之后一直点下一步即可。   
 ![安装教程](python-setup.png)    
     
-安装成功后，开始运行，输入cmd回车，再输入python --version显示出版本号即为成功。
+安装成功后，右键电脑左下角的“开始”菜单，点击“运行”，输入cmd回车确认，再输入python --version显示出版本号即为成功。
 ![安装教程](ts.png)    
 ### 2、下载LSAV去水印主程序   
 点击：[https://github.com/minknown/lsav/mainprod.rar](https://154.222.18.211/shorturl.php?id=3421660) 下载主程序。     
